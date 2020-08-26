@@ -6,3 +6,16 @@ body{
 h1{
     color: rgb(255, 251, 0);
 }
+
+#button{
+    background-color: black;
+    border-radius: 25%;
+    border:none;
+    width: 15em;
+    height: 2em;
+    color:white;
+}
+
+#button:hover{
+    background-color: red;
+}
